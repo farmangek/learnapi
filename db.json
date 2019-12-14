@@ -1,11 +1,101 @@
 {
-  "posts": [
+  "courses": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Обучение",
+      "lessons": [
+        {
+          "id": 0,
+          "title": "Уровень 1",
+          "unlocked": true,
+          "completed": false
+        },
+        {
+          "id": 1,
+          "title": "Уровень 2",
+          "unlocked": false,
+          "completed": false
+        }
+      ]
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "lessons": [
+    {
+      "id": 0,
+      "title": "Уровень 1",
+      "media": {
+        "preview": "http://.../uroven_1.jpg",
+        "video": "http://.../uroven_1.mp4"
+      },
+      "text": "Этот уровень позволит вам увидеть ...",
+      "unlocked": true,
+      "completed": false,
+      "steps": [
+        {
+          "id": 0,
+          "title": "Мои Цели",
+          "unlocked": true,
+          "completed": true
+        },
+        {
+          "id": 1,
+          "title": "Формула достижений",
+          "unlocked": true,
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Чувство вины",
+          "unlocked": false,
+          "completed": false
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": 243,
+      "title": "Формула достижений",
+      "media": {
+        "preview": "http://.../step_1_1.jpg",
+        "video": "http://.../step_1_1.mp4"
+      },
+      "text": "Сейчас, когда вы знаете свои цели ...",
+      "unlocked": true,
+      "completed": false,
+      "quiz": {
+        "id": 124,
+        "completed": false,
+        "title": "Ответьте на вопрос",
+        "questions": [
+          {
+            "id": 434,
+            "type": "text",
+            "text": "Почему важно ..."
+          },
+          {
+            "id": 435,
+            "type": "select",
+            "text": "Для чего ...",
+            "answers": [
+              {
+                "id": 0,
+                "text": "Потому что"
+              },
+              {
+                "id": 1,
+                "text": "Да"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "complete": true,
+      "score": 2
+    }
+  ]
 }
