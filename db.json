@@ -5,13 +5,13 @@
       "title": "Обучение",
       "lessons": [
         {
-          "id": 0,
+          "id": 10,
           "title": "Уровень 1",
           "unlocked": true,
           "completed": false
         },
         {
-          "id": 1,
+          "id": 11,
           "title": "Уровень 2",
           "unlocked": false,
           "completed": false
@@ -21,7 +21,7 @@
   ],
   "lessons": [
     {
-      "id": 0,
+      "id": 10,
       "title": "Уровень 1",
       "media": {
         "preview": "http://.../uroven_1.jpg",
@@ -32,19 +32,19 @@
       "completed": false,
       "steps": [
         {
-          "id": 0,
+          "id": 242,
           "title": "Мои Цели",
           "unlocked": true,
           "completed": true
         },
         {
-          "id": 1,
+          "id": 243,
           "title": "Формула достижений",
           "unlocked": true,
           "completed": false
         },
         {
-          "id": 2,
+          "id": 244,
           "title": "Чувство вины",
           "unlocked": false,
           "completed": false
@@ -94,6 +94,7 @@
   ],
   "quizzes": [
     {
+      "id": 124,
       "complete": true,
       "score": 2
     }
