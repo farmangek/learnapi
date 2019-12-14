@@ -24,8 +24,8 @@
       "id": 10,
       "title": "Уровень 1",
       "media": {
-        "preview": "http://.../uroven_1.jpg",
-        "video": "http://.../uroven_1.mp4"
+        "preview": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+        "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
       },
       "text": "Этот уровень позволит вам увидеть ...",
       "unlocked": true,
@@ -57,8 +57,8 @@
       "id": 243,
       "title": "Формула достижений",
       "media": {
-        "preview": "http://.../step_1_1.jpg",
-        "video": "http://.../step_1_1.mp4"
+        "preview": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+        "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
       },
       "text": "Сейчас, когда вы знаете свои цели ...",
       "unlocked": true,
