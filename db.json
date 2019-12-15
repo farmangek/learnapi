@@ -7,12 +7,14 @@
         {
           "id": 10,
           "title": "Уровень 1",
+          "name": "Самообразование",
           "unlocked": true,
           "completed": false
         },
         {
           "id": 11,
           "title": "Уровень 2",
+          "name": "Прагматизм",
           "unlocked": false,
           "completed": false
         }
@@ -23,6 +25,7 @@
     {
       "id": 10,
       "title": "Уровень 1",
+      "name": "Самообразование",
       "media": {
         "preview": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
         "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
@@ -34,21 +37,21 @@
         {
           "id": 242,
           "title": "Мои Цели",
-          "text": "На улице жара стояла страшная, к тому же духота",
+          "subtitle": "На улице жара стояла страшная, к тому же духота",
           "unlocked": true,
           "completed": true
         },
         {
           "id": 243,
           "title": "Формула достижений",
-          "text": "Идти ему было немного; он даже знал, сколько шагов",
+          "subtitle": "Идти ему было немного; он даже знал, сколько шагов",
           "unlocked": true,
           "completed": false
         },
         {
           "id": 244,
           "title": "Чувство вины",
-          "text": "С замиранием сердца и нервною дрожью",
+          "subtitle": "С замиранием сердца и нервною дрожью",
           "unlocked": false,
           "completed": false
         }
