@@ -178,11 +178,11 @@
       ]
     }
   ],
-  "complete": [
-    {
-      "id": 124,
-      "complete": true,
-      "score": 2
-    }
-  ]
+  "auth": {
+    "avatar": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+    "name": "testapi",
+    "mail": "testapi@example.org",
+    "token": "735d73a6382f2854a32f86a047a9b0ec5f462634ab5573a0f4926cff7472b92a",
+    "userId": "7"
+  }
 }
