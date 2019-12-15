@@ -34,18 +34,21 @@
         {
           "id": 242,
           "title": "Мои Цели",
+          "text": "На улице жара стояла страшная, к тому же духота",
           "unlocked": true,
           "completed": true
         },
         {
           "id": 243,
           "title": "Формула достижений",
+          "text": "Идти ему было немного; он даже знал, сколько шагов",
           "unlocked": true,
           "completed": false
         },
         {
           "id": 244,
           "title": "Чувство вины",
+          "text": "С замиранием сердца и нервною дрожью",
           "unlocked": false,
           "completed": false
         }
