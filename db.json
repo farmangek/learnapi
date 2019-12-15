@@ -9,12 +9,19 @@
           "title": "Уровень 1",
           "name": "Самообразование",
           "unlocked": true,
-          "completed": false
+          "completed": true
         },
         {
           "id": 11,
           "title": "Уровень 2",
           "name": "Прагматизм",
+          "unlocked": true,
+          "completed": false
+        },
+        {
+          "id": 12,
+          "title": "Уровень 3",
+          "name": "Воодушевляющая речь",
           "unlocked": false,
           "completed": false
         }
