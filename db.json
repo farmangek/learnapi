@@ -1,7 +1,7 @@
 {
   "courses": [
     {
-      "id": 1,
+      "id": 173,
       "title": "Обучение",
       "lessons": [
         {
@@ -33,6 +33,76 @@
       "id": 10,
       "title": "Уровень 1",
       "name": "Самообразование",
+      "media": {
+        "preview": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+        "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+      },
+      "text": "Зачем же изображать бедность, да бедность, да несовершенство нашей жизни, выкапывая людей из глуши, из отдалённых закоулков государства? Что же делать, если уже такого свойства сочинитель, и, заболев собственным несовершенством, уже и не может изображать он ничего другого, как только бедность, да бедность, да несовершенство нашей жизни, выкапывая людей из глуши, из отдалённых закоулков государства. И вот опять попали мы в глушь, опять наткнулись на закоулок.",
+      "unlocked": true,
+      "completed": false,
+      "steps": [
+        {
+          "id": 242,
+          "title": "Мои Цели",
+          "subtitle": "На улице жара стояла страшная, к тому же духота",
+          "unlocked": true,
+          "completed": true
+        },
+        {
+          "id": 243,
+          "title": "Формула достижений",
+          "subtitle": "Идти ему было немного; он даже знал, сколько шагов",
+          "unlocked": true,
+          "completed": false
+        },
+        {
+          "id": 244,
+          "title": "Чувство вины",
+          "subtitle": "С замиранием сердца и нервною дрожью",
+          "unlocked": false,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Уровень 2",
+      "name": "Прагматизм",
+      "media": {
+        "preview": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+        "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+      },
+      "text": "Зачем же изображать бедность, да бедность, да несовершенство нашей жизни, выкапывая людей из глуши, из отдалённых закоулков государства? Что же делать, если уже такого свойства сочинитель, и, заболев собственным несовершенством, уже и не может изображать он ничего другого, как только бедность, да бедность, да несовершенство нашей жизни, выкапывая людей из глуши, из отдалённых закоулков государства. И вот опять попали мы в глушь, опять наткнулись на закоулок.",
+      "unlocked": true,
+      "completed": false,
+      "steps": [
+        {
+          "id": 242,
+          "title": "Мои Цели",
+          "subtitle": "На улице жара стояла страшная, к тому же духота",
+          "unlocked": true,
+          "completed": true
+        },
+        {
+          "id": 243,
+          "title": "Формула достижений",
+          "subtitle": "Идти ему было немного; он даже знал, сколько шагов",
+          "unlocked": true,
+          "completed": false
+        },
+        {
+          "id": 244,
+          "title": "Чувство вины",
+          "subtitle": "С замиранием сердца и нервною дрожью",
+          "unlocked": false,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Уровень 3",
+      "name": "Воодушевляющая речь",
       "media": {
         "preview": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
         "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
